@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [PRI’s The World In 
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [The World in Words](http://www.pri.org/collections/world-words) by [PRI](http://www.pri.org/) is a podcast about languages and the people who speak them. What happens to the brain on bilingualism? Should we fear the rise of global English? Is the United States losing its linguistic cohesion? Why are Chinese words about technology so inventive? Why does Icelandic have so many cool swearwords? Patrick Cox and Nina Porzucki bring you stories from the world’s linguistic frontlines. (In short, we’re nerdy and wordy.)
 
